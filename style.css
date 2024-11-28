@@ -18,7 +18,7 @@ ul{
 
 .nav-container{
     color: white;
-    width: 1200px;  
+    width: 900px;  
     justify-content: right;
     
 }
@@ -27,7 +27,6 @@ ul{
     padding: 14px 16px;
     display: inline;
     float: right;
-    order: -1;
 }
 
 .hero-text-container{
@@ -41,13 +40,13 @@ ul{
     
 }
 .rightbox{
-    width:600px;
+    width:450px;
 }
 .image-ph{
     
-    background-color: #1f2999;
-    width: 600px;
-    height: auto;
+    background-color: #e5e7eb;
+    width: 450px;
+    height: 250px;
     border: 1px;
 }
 .herotext{
@@ -65,4 +64,18 @@ ul{
 }
 .navdisplay{
     display: inline;
+}
+.imgplacehold{
+    justify-content: center;
+    text-align: center;
+    margin-top: 100px;
+}
+.button{
+    background-color: #3882f6;
+    padding: 2px 2px;
+    text-align: center;
+    border-radius: 4px;
+    width: 75px;
+    font-size: 14px;
+    color: #f9faf8;
 }
