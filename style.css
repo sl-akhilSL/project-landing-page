@@ -1,0 +1,68 @@
+*{
+  font-family:  Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;  
+}
+.container-top{
+    display: flex;
+    background-color: #1f2937;
+    height: 100px;
+    justify-content: center;
+
+}
+.container-hero{
+    background-color: #1f2937;
+    height: 400px;
+}
+ul{
+    list-style-type: none;
+}
+
+.nav-container{
+    color: white;
+    width: 1200px;  
+    justify-content: right;
+    
+}
+
+.nav-container li{
+    padding: 14px 16px;
+    display: inline;
+    float: right;
+    order: -1;
+}
+
+.hero-text-container{
+    padding: 20px; 
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    height:300px;
+    
+    
+}
+.rightbox{
+    width:600px;
+}
+.image-ph{
+    
+    background-color: #1f2999;
+    width: 600px;
+    height: auto;
+    border: 1px;
+}
+.herotext{
+    font-size: 48px;
+    color: #f9faf8;
+}
+.herodescription{
+    font-size: 18px;
+    color: #e5e7eb;
+}
+.headlogo{
+    font-size: 24px;
+    color: #f9faf8;
+    display: inline;
+}
+.navdisplay{
+    display: inline;
+}
